@@ -1,0 +1,12 @@
+{
+    "zhangczw": {
+        "password": "$2b$12$4J2sqPGT5WxwqdNPzQOFmOk./PawoYw1obB/CsChYGbyH/ICerxp6",
+        "created": "2024-04-28",
+        "role": "user"
+    },
+    "11": {
+        "password": "$2b$12$jHWxUE20VuCGLH5JXolyU.8NhsOQs0g5XE5hb0uCk5ZJnp8CvW7hC",
+        "created": "2024-04-28",
+        "role": "user"
+    }
+}
